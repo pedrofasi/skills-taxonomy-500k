@@ -28,9 +28,9 @@ Clone o repositório e execute os notebooks:
 
 ```bash
 git clone https://github.com/pedrofasi/skill-taxonomy-500k.git
-
+```
 ⚠️ A pasta modelo_bert_skills/ não está no repositório por conta do tamanho. Caso precise dela, solicite diretamente ou acesse o link externo de download.
 
 🧠 Autor
 Pedro Henrique Reis Rodrigues
-Cientista da Computação com foco em NLP, embeddings e clusterização em larga escala.
+
