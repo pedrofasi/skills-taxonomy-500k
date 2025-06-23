@@ -1,14 +1,4 @@
 
-# Ignore arquivos temporários
-*.ipynb_checkpoints
-*.DS_Store
-__pycache__/
-*.py[cod]
-
-# Ignore arquivos grandes não versionáveis
 modelo_bert_skills/
-*.tar.gz
-*.zip
-
-# Arquivos de cache e sistema
 state.db
+.ipynb_checkpoints/
