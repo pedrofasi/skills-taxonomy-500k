@@ -32,7 +32,7 @@ git clone https://github.com/pedrofasi/skill-taxonomy-500k.git
 
 ## ⚠️ 
 
-A pasta modelo_bert_skills/ não está no repositório por conta do tamanho. Link externo de download.
+A pasta modelo_bert_skills/ não está no repositório por conta do tamanho. [Link para download](https://huggingface.co/pedrofasi/modelo-bert-skills)
 
 ## 🧠 Autor
 Pedro Henrique Reis Rodrigues
