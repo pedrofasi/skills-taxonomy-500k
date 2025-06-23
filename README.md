@@ -30,6 +30,10 @@ Clone o repositório e execute os notebooks:
 git clone https://github.com/pedrofasi/skill-taxonomy-500k.git
 ```
 
+## Video Demonstration
+
+https://youtu.be/olMx3ZvlQY8
+
 ## ⚠️ 
 
 A pasta modelo_bert_skills/ não está no repositório por conta do tamanho. [Link para download](https://huggingface.co/pedrofasi/modelo-bert-skills)
