@@ -38,7 +38,7 @@ function filtrarLabelsUnicosPorNomeEPosicao(centroides, precisao) {
 
 let centroides_n2, centroides_n1, centroides_n0;
 
-fetch('/visao1.json')
+fetch('visao1.json')
     .then(resp => resp.json())
     .then(data => {
         // FILTRA TODOS OS RUÍDOS (-1)
